@@ -1,0 +1,9 @@
+Overview of Changes
+
+- added specific Management-Roles to Teamspeak
+- small adjustments to i_group_sort_id for new Roles
+- cleaed up some "wrong" channelpermissions
+- adjusted iconsizes to 64x64 pixel for all icons
+- added new CSGO icon, old icon still remains on server
+- added new Apex Legends icon
+- deleted old icon files
