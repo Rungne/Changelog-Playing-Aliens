@@ -1,4 +1,4 @@
 # Changelog-Playing-Aliens
 This is just a Changlog collection
 
-All Changlogs combined for Playing Aliens Server
+All Changelogs combined for Playing Aliens Server
