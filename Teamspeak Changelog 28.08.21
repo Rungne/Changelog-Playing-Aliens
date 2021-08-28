@@ -2,8 +2,18 @@ Overview of Changes
 
 Teamspeak: #E-Sports
 
-- simple redesign for the "eSports Area" (less Channel, less disturbing spacer)
-- Changed Channelpermission for all teamchannel (max client family),(max client)
+- complete redesign for the "eSports Area" (less Channel, less disturbing spacer)
+- Changed Channelpermission for all teamchannel (max client family),(max client),(joinpower)
 - renamed Channelname
 - deleted unnecessary spacers
 - fixed permission for Teamchannel
+
+- added a Bot (Sinusbot)
+> Autochannelcreation, Supportchannel, Teamspeak to Discord notificationsystem
+- added an Channel for Bots only
+- added a new role for Bots ("Bot")
+- changed the curret CS:GO Icon for Teamchannel, like on our Community TS
+- adjusted all Iconsizes to 64x64 pixel
+- adjusted permission on joinpower for servergroup "Player"
+- tweaked voicecodec in "Broadcast Area" for better audioquality
+- added Icons to "Alien Lounges"
