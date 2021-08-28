@@ -1,0 +1,33 @@
+Added a new Service temporarily until a selfhosted solution takes in place.
+
+Uptimerobot displays up to 50 Services and their current Status. If a Server didn't works properly or is fully shutdown it helps to see when it happened or its just down for a single user.
+
+Link:
+https://stats.uptimerobot.com/V2MLPS2LMG
+
+Password on request only!
+
+
+
+Monitored Services are :
+
+Playing Aliens Demoserver
+https://demo.playingaliens.club/#/
+
+Playing Aliens Homepage
+https://www.playingaliens.com/
+
+Playing Aliens Openproject
+https://cloud.playingaliens.com/openproject/
+
+Playing Aliens TS-Stats
+https://ts-stats.aliens4you.com
+
+
+Planed feat. in future :
+
+- binded to Domain - status.playingalines.com
+- displaying every custom Domain, Gameserver and applications hosted by Playing Aliens
+- easy access and monitoring to all corefunctions
+- simple overview
+- quick problemsolving option
