@@ -1,0 +1,9 @@
+Overview of Changes
+
+Teamspeak #Community
+
+- adjusted small permission values for sort_id
+- added an channel only for bots
+- integration of an new notificationsystem combining Teamspeak with Discord
+- implemented a Ticketsystem to Teamspeak support via Discord (not final yet, still in beta)
+- fixed some spellingerrors in Channeldescriptions
