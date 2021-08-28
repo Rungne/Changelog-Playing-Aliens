@@ -1,0 +1,9 @@
+Overview of Changes
+
+Teamspeak: #E-Sports
+
+- simple redesign for the "eSports Area" (less Channel, less disturbing spacer)
+- Changed Channelpermission for all teamchannel (max client family),(max client)
+- renamed Channelname
+- deleted unnecessary spacers
+- fixed permission for Teamchannel
