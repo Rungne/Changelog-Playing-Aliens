@@ -1,0 +1,8 @@
+Overview of Changes
+
+- add custom Channeldescrition to Teamchannel, with all useful Informations
+- add viewpower for Channel
+
+
+TODO to prevent future problems
+- add permissionsgroups to all people on the Teamchannel which are part of it
