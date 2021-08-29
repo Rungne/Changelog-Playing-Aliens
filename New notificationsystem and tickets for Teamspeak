@@ -1,0 +1,20 @@
+New Features
+
+A new notificationsystem is implemented.
+
+Usecase:
+- if someone joins the Supportchannel's it will trigger an event to post a premade message
+- there are 2 diffrent types of messages, one for the community TS and one for the E-Sports TS
+- after the support is finished a recation has to be set, to clear the status of support
+- if someone joins inadvertently, the message can be deleted or marked with an custom reaktion for it
+
+A new ticketsystem is implemented.
+
+Usecase:
+- if someone sends a privatmessage to the bot (scoutship) with the exact command " !ticket (message behind that with an "space")" a ticket is created
+- there are 2 diffrent types of messages, one for the community TS and one for the E-Sports TS
+- after the support is finished a recation has to be set, to clear the status of support
+- if someone creates inadvertently a ticket, the message can be deleted or marked with an custom reaktion for it
+
+Disclaimer
+The new ticketsystem is still in beta, can contain bugs or does not working properly. Still work in progress, and will be worked on. 
